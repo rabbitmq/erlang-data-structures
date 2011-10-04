@@ -1,0 +1,6 @@
+This repository contains various data structures in Erlang that have
+been implemented in the course of development of RabbitMQ, but are not
+currently used in any of the RabbitMQ applications.
+
+They may have received none, some or more testing, so use at your own
+risk, but feedback is welcome.

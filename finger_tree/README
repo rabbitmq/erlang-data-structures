@@ -1,0 +1,13 @@
+This is an implementation of 2-3 finger trees by Ralf Hinze and Ross
+Paterson ( http://www.soi.city.ac.uk/~ross/papers/FingerTree.html ).
+The variety of uses of this data structure by varying the monoid
+implementation is impressive. However, be aware that the core
+implementation, whilst it does obey the general O(log) performance
+characteristics tends to result in large amounts of memory churn when
+modifying the data structure. Thus simpler and more naive solutions,
+even if less algorithmically efficient, are often faster. This could
+be addressed by further tuning work.
+
+See also an alternative finger_tree implementation (which I failed to
+find before writing this one) at:
+https://github.com/grogers0/erl_finger_trees
