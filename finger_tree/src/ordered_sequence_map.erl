@@ -11,7 +11,7 @@
 %% The Original Code is RabbitMQ Erlang Data Structures.
 %%
 %% The Initial Developer of the Original Code is VMware, Inc.
-%% Copyright (c) 2011-2012 VMware, Inc.  All rights reserved.
+%% Copyright (c) 2011-2013 VMware, Inc.  All rights reserved.
 %%
 
 -module(ordered_sequence_map).
