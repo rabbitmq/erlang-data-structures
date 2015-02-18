@@ -1,3 +1,6 @@
+/!\ Repository moved to GitHub: https://github.com/rabbitmq/erlang-data-structures
+    This is a stale read-only repository.
+
 This repository contains various data structures in Erlang that have
 been implemented in the course of development of RabbitMQ, but are not
 currently used in any of the RabbitMQ applications.
