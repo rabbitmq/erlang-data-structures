@@ -1,5 +1,5 @@
 This is an implementation of 2-3 finger trees by Ralf Hinze and Ross
-Paterson ( http://www.soi.city.ac.uk/~ross/papers/FingerTree.html ).
+Paterson ( https://staff.city.ac.uk/~ross/papers/FingerTree.html ).
 The variety of uses of this data structure by varying the monoid
 implementation is impressive. However, be aware that the core
 implementation, whilst it does obey the general O(log) performance

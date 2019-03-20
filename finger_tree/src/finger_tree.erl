@@ -1,7 +1,7 @@
 %% The contents of this file are subject to the Mozilla Public License
 %% Version 1.1 (the "License"); you may not use this file except in
 %% compliance with the License. You may obtain a copy of the License
-%% at http://www.mozilla.org/MPL/
+%% at https://www.mozilla.org/MPL/
 %%
 %% Software distributed under the License is distributed on an "AS IS"
 %% basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See
@@ -35,7 +35,7 @@
 %% implementation to vary. See the paper[0] for examples of other
 %% things that could be implemented.
 %%
-%% [0]: http://www.soi.city.ac.uk/~ross/papers/FingerTree.html
+%% [0]: https://staff.city.ac.uk/~ross/papers/FingerTree.html
 
 
 -compile([export_all]).
